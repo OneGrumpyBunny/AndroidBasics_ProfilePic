@@ -15,16 +15,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView nameView = (TextView) findViewById(R.id.name);
-        TextView birthdayView = (TextView) findViewById(R.id.birthday);
-        TextView countryView = (TextView) findViewById(R.id.country);
 
         String name = "Cheryl";
         String birthday = "August";
         String country = "USA";
 
         nameView.setText(name);
-        birthdayView.setText(birthday);
-        countryView.setText(country);
 
         /** profile_picture1 is defined in XML
          * profile_picture2 is defined with setImageResource
