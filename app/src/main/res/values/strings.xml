@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="name">Cheryl</string>
+    <string name="profile_picture1">Profile Picture 1</string>
+    <string name="profile_picture2">Profile Picture 2</string>
+    <string name="profile_picture3">Profile Picture 3</string>
+</resources>
